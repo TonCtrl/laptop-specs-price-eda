@@ -1,4 +1,3 @@
-# laptop-specs-price-eda
 # Laptop Specs & Price Exploratory Data Analysis (EDA)
 
 ## Project Overview
